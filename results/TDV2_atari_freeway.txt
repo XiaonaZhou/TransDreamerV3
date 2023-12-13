@@ -1,0 +1,36 @@
+collected 879138 steps. Start training...
+Saved checkpoint to /home/grads/xzhou1/TransDreamer/logdir/configs_atari_freeway/atari_freeway/run_0/model_000880001.pth
+Train episode of length 8192 with return 32.0.
+Train episode of length 8192 with return 33.0.
+Train episode of length 8164 with return 33.0.
+Train episode of length 8184 with return 34.0.
+Train episode of length 8172 with return 32.0.
+Saved checkpoint to /home/grads/xzhou1/TransDreamer/logdir/configs_atari_freeway/atari_freeway/run_0/model_000890001.pth
+Train episode of length 8192 with return 33.0.
+Train episode of length 8192 with return 33.0.
+Train episode of length 8176 with return 32.0.
+Train episode of length 8184 with return 33.0.
+Train episode of length 8164 with return 32.0.
+Test episode of length 8172 with return 32.0.
+Saved checkpoint to /home/grads/xzhou1/TransDreamer/logdir/configs_atari_freeway/atari_freeway/run_0/model_000900001.pth
+Train episode of length 8180 with return 32.0.
+Train episode of length 8188 with return 32.0.
+Train episode of length 8184 with return 33.0.
+Train episode of length 8184 with return 32.0.
+Train episode of length 8176 with return 32.0.
+Saved checkpoint to /home/grads/xzhou1/TransDreamer/logdir/configs_atari_freeway/atari_freeway/run_0/model_000910001.pth
+Train episode of length 8168 with return 33.0.
+Train episode of length 8192 with return 32.0.
+Train episode of length 8176 with return 32.0.
+Train episode of length 8176 with return 34.0.
+Saved checkpoint to /home/grads/xzhou1/TransDreamer/logdir/configs_atari_freeway/atari_freeway/run_0/model_000920001.pth
+Train episode of length 8180 with return 32.0.
+Train episode of length 8180 with return 34.0.
+Train episode of length 8172 with return 34.0.
+Train episode of length 8188 with return 20.0.
+Train episode of length 8180 with return 26.0.
+Saved checkpoint to /home/grads/xzhou1/TransDreamer/logdir/configs_atari_freeway/atari_freeway/run_0/model_000930001.pth
+Train episode of length 8184 with return 32.0.
+Train episode of length 8192 with return 32.0.
+Train episode of length 8192 with return 32.0.
+Train episode of length 8180 with return 34.0.

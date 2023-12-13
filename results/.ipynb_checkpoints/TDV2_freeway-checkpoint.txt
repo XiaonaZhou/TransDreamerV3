@@ -1,0 +1,21 @@
+collected 879138 steps. Start training...
+Train episode of length 8192 with return 32.0.
+Train episode of length 8192 with return 33.0.
+Train episode of length 8164 with return 33.0.
+Train episode of length 8184 with return 34.0.
+Train episode of length 8172 with return 32.0.
+Train episode of length 8192 with return 33.0.
+Train episode of length 8192 with return 33.0.
+Train episode of length 8176 with return 32.0.
+Train episode of length 8184 with return 33.0.
+Train episode of length 8164 with return 32.0.
+Test episode of length 8172 with return 32.0.
+Train episode of length 8180 with return 32.0.
+Train episode of length 8188 with return 32.0.
+Train episode of length 8184 with return 33.0.
+Train episode of length 8184 with return 32.0.
+Train episode of length 8176 with return 32.0.
+Train episode of length 8168 with return 33.0.
+Train episode of length 8192 with return 32.0.
+Train episode of length 8176 with return 32.0.
+Train episode of length 8176 with return 34.0.
