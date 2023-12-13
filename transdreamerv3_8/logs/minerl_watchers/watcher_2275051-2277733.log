@@ -1,0 +1,8 @@
+2023-11-14 13:15:17 plan.cs.vt.edu process_watcher[2278714] INFO Process watcher started between parent 2275051 and child 2277733 
+2023-11-14 13:15:36 plan.cs.vt.edu process_watcher[2278714] INFO Parent is not running, hence we need terminate the child.
+2023-11-14 13:15:36 plan.cs.vt.edu process_watcher[2278714] INFO About to reap process tree of 2277733:launchClient.sh:/usr/bin/bash i sleeping, owner 1, printing process tree status in termination order:
+2023-11-14 13:15:36 plan.cs.vt.edu process_watcher[2278714] INFO 	-2277740:java:/usr/lib/jvm/java-1.8.0-openjdk-1.8.0.382.b05-2.el8.x86_64/jre/bin/java i sleeping, owner 2277733
+2023-11-14 13:15:36 plan.cs.vt.edu process_watcher[2278714] INFO 	-2277733:launchClient.sh:/usr/bin/bash i sleeping, owner 1
+2023-11-14 13:15:36 plan.cs.vt.edu process_watcher[2278714] INFO Trying to SIGTERM 2277740:java:/usr/lib/jvm/java-1.8.0-openjdk-1.8.0.382.b05-2.el8.x86_64/jre/bin/java i sleeping, owner 2277733
+2023-11-14 13:15:36 plan.cs.vt.edu process_watcher[2278714] INFO Process psutil.Process(pid=2277740, name='java', status='terminated', started='13:15:16') terminated with exit code None
+2023-11-14 13:15:36 plan.cs.vt.edu process_watcher[2278714] INFO Process psutil.Process(pid=2277733, name='launchClient.sh', status='terminated', started='13:15:16') does not exist or is zombie.

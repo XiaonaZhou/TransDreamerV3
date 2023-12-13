@@ -1,0 +1,2 @@
+2023-11-19 12:16:30 plan.cs.vt.edu process_watcher[4007319] INFO Process watcher started between parent 4002275 and child 4004394 
+2023-11-19 12:16:38 plan.cs.vt.edu process_watcher[4007319] INFO Parent is not running, hence we need terminate the child.

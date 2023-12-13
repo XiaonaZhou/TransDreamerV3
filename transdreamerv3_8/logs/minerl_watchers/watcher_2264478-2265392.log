@@ -1,0 +1,2 @@
+2023-11-14 13:08:45 plan.cs.vt.edu process_watcher[2267843] INFO Process watcher started between parent 2264478 and child 2265392 
+2023-11-14 13:09:04 plan.cs.vt.edu process_watcher[2267843] INFO Child is not running anymore, launcher can terminate.
