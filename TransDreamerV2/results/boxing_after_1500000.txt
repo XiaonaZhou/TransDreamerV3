@@ -1,0 +1,61 @@
+collected 1499572 steps. Start training...
+
+Train episode of length 1644 with return 93.0.
+
+Test episode of length 1388 with return 93.0.
+
+Saved checkpoint to /home/grads/xzhou1/TransDreamer/logdir/configs_atari/atari_boxing/run_0/model_001500001.pth
+
+Train episode of length 1024 with return 100.0.
+
+Train episode of length 1392 with return 94.0.
+
+Train episode of length 948 with return 100.0.
+
+Train episode of length 1276 with return 100.0.
+
+Train episode of length 1260 with return 97.0.
+
+Train episode of length 1384 with return 96.0.
+
+Train episode of length 1312 with return 94.0.
+
+Train episode of length 1252 with return 100.0.
+
+Train episode of length 1380 with return 93.0.
+
+Train episode of length 968 with return 100.0.
+
+Train episode of length 1084 with return 100.0.
+
+Train episode of length 996 with return 100.0.
+
+Train episode of length 1308 with return 98.0.
+
+Train episode of length 1028 with return 98.0.
+
+Train episode of length 1040 with return 98.0.
+
+Train episode of length 960 with return 100.0.
+
+Train episode of length 1704 with return 90.0.
+
+Train episode of length 1572 with return 95.0.
+
+Train episode of length 1084 with return 97.0.
+
+Train episode of length 884 with return 100.0.
+
+Train episode of length 956 with return 100.0.
+
+Train episode of length 1088 with return 100.0.
+
+Train episode of length 880 with return 100.0.
+
+Train episode of length 892 with return 100.0.
+
+Train episode of length 1580 with return 91.0.
+
+Train episode of length 944 with return 100.0.
+
+Train episode of length 1504 with return 93.0.

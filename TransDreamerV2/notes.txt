@@ -1,0 +1,23 @@
+Set environment for TransDreamer
+
+
+
+1. git clone 
+
+2. with cuda 12.3, remove line 235,236,237, and conda env create -f environment.yml
+
+3.  pip install torch==2.1.0 torchvision==0.16.0 torchaudio==2.1.0 --index-url https://download.pytorch.org/whl/cu121
+
+4. pip install protobuf==3.20.1
+
+5. pip install gym[accept-rom-license]
+
+6. try run python main.py --config-file config_files/configs_atari.py 
+
+7 if get error about func, change func to f in the file, such as vim /home/grads/xzhou1/anaconda3/envs/trans_dreamer/lib/python3.8/site-packages/moviepy/decorators.py
+
+
+
+
+
+1. change logdir in config.py (line 6, 139, 173)  and config_atari.py (line 5, 127, 154)
